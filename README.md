@@ -1,5 +1,5 @@
-# Poggers-beta-mod
-Its in beta
+# Poggers-mod
+Its now out
 if any bugs put it on Issues
 its adds new items
 new ores 
